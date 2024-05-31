@@ -26,5 +26,5 @@ styles.css: Arquivo de estilo que define o layout e a aparência da aplicação.
 script.js: Contém a lógica do cálculo do IMC e a manipulação do DOM para apresentar os resultados.
 
 
-# Contribuições
+## Contribuições
 Contribuições são bem-vindas! Se você deseja melhorar este projeto ou adicionar novas funcionalidades, sinta-se à vontade para abrir uma pull request ou relatar um problema.
